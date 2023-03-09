@@ -24,7 +24,7 @@ Installing **Microsoft Office 2021**, this may take several minutes, depending o
 
 ![Installing Office](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
 
-Once the installation is completed, let's open any Office apps. As you can see, you need to activate the Office 2021 license; the trial license will expire in 7 days.
+Once the installation is completed, let's open any Office apps. As you can see, you need to activate the Office 2021 license.
 
 ![Activation Required](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
 
@@ -45,7 +45,7 @@ cscript ospp.vbs /sethst:kms.msgang.com
 cscript ospp.vbs /act
 pause
 ```
-**Microsoft Office 2021** was activated, and you can start using the applications without any restrictions or limitations.
+**Microsoft Office 2021** is activated, and you can start using the applications without any restrictions or limitations.
 
 ![Command-Prompt-Window](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
 
